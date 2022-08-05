@@ -1,0 +1,403 @@
+runKM
+=================== 1. K = 3  M = 13 D = 39 ===================
+2022/08/04 14:25
+1. K_on = 2 M_on = 11 N = 22 
+Utilize rate: 0.564103 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:03
+===============================
+2. K_on = 3 M_on = 7 N = 21 
+Utilize rate: 0.538462 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+3. K_on = 2 M_on = 10 N = 20 
+Utilize rate: 0.512821 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+4. K_on = 2 M_on = 9 N = 18 
+Utilize rate: 0.461538 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+5. K_on = 3 M_on = 6 N = 18 
+Utilize rate: 0.461538 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+6. K_on = 2 M_on = 8 N = 16 
+Utilize rate: 0.410256 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+7. K_on = 3 M_on = 5 N = 15 
+Utilize rate: 0.384615 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+8. K_on = 2 M_on = 7 N = 14 
+Utilize rate: 0.358974 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+9. K_on = 1 M_on = 13 N = 13 
+Utilize rate: 0.333333 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:02
+===============================
+10. K_on = 1 M_on = 12 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+1.s_2 = 0.096022
+2.s_2 = 0.000578
+3.s_2 = 0.000000
+40.000000s = Dottorro time: 00:00:09
+===============================
+11. K_on = 2 M_on = 6 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+12. K_on = 3 M_on = 4 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+===============================
+K_on = 1 M_on = 12 N = 12 
+Utilized rate: 0.307692 
+Max utilization time: 00:00:29
+===============================
+fs = 80.000000
+fs = 80.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 60.000000
+fs = 60.000000 is INFEASIBLE.
+Dottorro time: 00:00:02
+===============================
+fs = 50.000000
+1.s_2 = 0.064197
+2.s_2 = 0.000017
+3.s_2 = 0.000000
+50.000000s = Dottorro time: 00:00:07
+===============================
+fs = 55.000000
+fs = 55.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 52.500000
+1.s_2 = 0.033778
+2.s_2 = 0.000003
+3.s_2 = 0.000000
+52.500000s = Dottorro time: 00:00:08
+===============================
+fs = 53.750000
+1.s_2 = 0.038738
+2.s_2 = 0.104755
+runKM
+=================== 1. K = 3  M = 13 D = 39 ===================
+2022/08/04 14:26
+1. K_on = 2 M_on = 11 N = 22 
+Utilize rate: 0.564103 
+fs = 20.000000
+[Warning: A non-empty cvx problem already exists in this scope.
+   It is being overwritten.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvxprob', 'C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m', 28)" style="font-weight:bold">cvxprob</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m',28,0)">line 28</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvx_begin', 'C:\Users\derp\Documents\cvx\commands\cvx_begin.m', 41)" style="font-weight:bold">cvx_begin</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\commands\cvx_begin.m',41,0)">line 41</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Dottorro', 'C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx', 17)" style="font-weight:bold">Dottorro</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx',17,0)">line 17</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 65)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',65,0)">line 65</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)] 
+1.s_2 = 0.036547
+2.s_2 = 0.025810
+3.s_2 = 0.002591
+4.s_2 = 0.000002
+5.s_2 = 0.000000
+20.000000s = Dottorro time: 00:00:14
+===============================
+===============================
+K_on = 2 M_on = 11 N = 22 
+Utilized rate: 0.564103 
+Max utilization time: 00:00:14
+===============================
+fs = 80.000000
+fs = 80.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 60.000000
+1.s_2 = 0.319293
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PSD_S', 'C:\Users\derp\Documents\GitHub\GFDM\functions\PSD\PSD_S.mlx', 61)" style="font-weight:bold">PSD_S</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\PSD\PSD_S.mlx',61,0)">line 61</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Dottorro', 'C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx', 31)" style="font-weight:bold">Dottorro</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx',31,0)">line 31</a>)
+    psd = PSD_S(gfdm, S, fs, psd_temp, fTs, P);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 107)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',107,0)">line 107</a>)
+        S = Dottorro(gfdm, fs_mid, Channel, P, SEM, fTs);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)
+        opt_problem;
+} 
+runKM
+=================== 1. K = 3  M = 13 D = 39 ===================
+2022/08/04 14:28
+1. K_on = 3 M_on = 12 N = 36 
+Utilize rate: 0.923077 
+fs = 20.000000
+[Warning: A non-empty cvx problem already exists in this scope.
+   It is being overwritten.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvxprob', 'C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m', 28)" style="font-weight:bold">cvxprob</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m',28,0)">line 28</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvx_begin', 'C:\Users\derp\Documents\cvx\commands\cvx_begin.m', 41)" style="font-weight:bold">cvx_begin</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\commands\cvx_begin.m',41,0)">line 41</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Dottorro', 'C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx', 17)" style="font-weight:bold">Dottorro</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx',17,0)">line 17</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 67)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',67,0)">line 67</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)] 
+1.s_2 = 0.033205
+2.s_2 = 0.031985
+3.s_2 = 0.032318
+4.s_2 = 0.032876
+5.s_2 = 0.038859
+6.s_2 = 0.000094
+7.s_2 = 0.000000
+20.000000s = Dottorro time: 00:00:18
+===============================
+===============================
+K_on = 3 M_on = 12 N = 36 
+Utilized rate: 0.923077 
+Max utilization time: 00:00:18
+===============================
+fs = 80.000000
+fs = 80.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 60.000000
+===== Can not run this K and M: MATLAB:UndefinedFunction =====
+Unrecognized function or variable 'S_svd'.
+2022/08/04 14:28
+=================== 1. K = 3  M = 13 D = 39 ===================
+2022/08/04 14:28
+1. K_on = 3 M_on = 13 N = 39 
+Utilize rate: 1.000000 
+fs = 20.000000
+1.s_2 = 0.025641
+2.s_2 = 0.025629
+3.s_2 = 0.025561
+4.s_2 = 0.027682
+5.s_2 = 0.027682
+6.s_2 = 0.000000
+20.000000s = Dottorro time: 00:00:10
+===============================
+===============================
+K_on = 3 M_on = 13 N = 39 
+Utilized rate: 1.000000 
+Max utilization time: 00:00:10
+===============================
+fs = 80.000000
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('expression', 'C:\Users\derp\Documents\cvx\keywords\expression.m', 59)" style="font-weight:bold">expression</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\keywords\expression.m',59,0)">line 59</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Dottorro', 'C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx', 19)" style="font-weight:bold">Dottorro</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx',19,0)">line 19</a>)
+    expression psd_temp(length(P), 1)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 109)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',109,0)">line 109</a>)
+        S = Dottorro(gfdm, fs_mid, Channel, P, SEM, fTs);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)
+        opt_problem;
+} 
+runKM
+=================== 1. K = 3  M = 13 D = 39 ===================
+2022/08/04 14:29
+1. K_on = 2 M_on = 11 N = 22 
+Utilize rate: 0.564103 
+fs = 40.000000
+[Warning: A non-empty cvx problem already exists in this scope.
+   It is being overwritten.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvxprob', 'C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m', 28)" style="font-weight:bold">cvxprob</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\lib\@cvxprob\cvxprob.m',28,0)">line 28</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cvx_begin', 'C:\Users\derp\Documents\cvx\commands\cvx_begin.m', 41)" style="font-weight:bold">cvx_begin</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\cvx\commands\cvx_begin.m',41,0)">line 41</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Dottorro', 'C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx', 17)" style="font-weight:bold">Dottorro</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\Dottorro.mlx',17,0)">line 17</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 65)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',65,0)">line 65</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)] 
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+2. K_on = 3 M_on = 7 N = 21 
+Utilize rate: 0.538462 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+3. K_on = 2 M_on = 10 N = 20 
+Utilize rate: 0.512821 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+4. K_on = 2 M_on = 9 N = 18 
+Utilize rate: 0.461538 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+5. K_on = 3 M_on = 6 N = 18 
+Utilize rate: 0.461538 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+6. K_on = 2 M_on = 8 N = 16 
+Utilize rate: 0.410256 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+7. K_on = 3 M_on = 5 N = 15 
+Utilize rate: 0.384615 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+8. K_on = 2 M_on = 7 N = 14 
+Utilize rate: 0.358974 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+9. K_on = 1 M_on = 13 N = 13 
+Utilize rate: 0.333333 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:02
+===============================
+10. K_on = 1 M_on = 12 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+1.s_2 = 0.096022
+2.s_2 = 0.000578
+3.s_2 = 0.000000
+40.000000s = Dottorro time: 00:00:09
+===============================
+11. K_on = 2 M_on = 6 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+12. K_on = 3 M_on = 4 N = 12 
+Utilize rate: 0.307692 
+fs = 40.000000
+fs = 40.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+===============================
+K_on = 1 M_on = 12 N = 12 
+Utilized rate: 0.307692 
+Max utilization time: 00:00:27
+===============================
+fs = 80.000000
+fs = 80.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 60.000000
+fs = 60.000000 is INFEASIBLE.
+Dottorro time: 00:00:02
+===============================
+fs = 50.000000
+1.s_2 = 0.064197
+2.s_2 = 0.000017
+3.s_2 = 0.000000
+50.000000s = Dottorro time: 00:00:07
+===============================
+fs = 55.000000
+fs = 55.000000 is INFEASIBLE.
+Dottorro time: 00:00:01
+===============================
+fs = 52.500000
+1.s_2 = 0.033778
+2.s_2 = 0.000003
+3.s_2 = 0.000000
+52.500000s = Dottorro time: 00:00:08
+===============================
+fs = 53.750000
+1.s_2 = 0.038738
+2.s_2 = 0.000006
+3.s_2 = 0.000000
+53.750000s = Dottorro time: 00:00:09
+===============================
+fs = 54.375000
+fs = 54.375000 is INFEASIBLE.
+Dottorro time: 00:00:03
+===============================
+fs = 54.062500
+1.s_2 = 0.027042
+2.s_2 = 0.000015
+3.s_2 = 0.000012
+4.s_2 = 0.000010
+5.s_2 = 0.000011
+6.s_2 = 0.000011
+7.s_2 = 0.000010
+8.s_2 = 0.000011
+9.s_2 = 0.000011
+10.s_2 = 0.000009
+11.s_2 = 0.000011
+12.s_2 = 0.000011
+13.s_2 = 0.000011
+14.s_2 = 0.000011
+15.s_2 = 0.000011
+16.s_2 = 0.000011
+17.s_2 = 0.000011
+18.s_2 = 0.000010
+19.s_2 = 0.000011
+fs = 54.062500 is INFEASIBLE.
+Dottorro time: 00:00:55
+===============================
+fs = 53.906250
+1.s_2 = 0.037660
+2.s_2 = 0.000005
+3.s_2 = 0.000001
+4.s_2 = 0.000000
+53.906250s = Dottorro time: 00:00:12
+===============================
+fs = 53.984375
+1.s_2 = 0.032284
+2.s_2 = 0.000011
+3.s_2 = 0.000012
+4.s_2 = 0.000005
+5.s_2 = 0.000004
+6.s_2 = 0.000004
+7.s_2 = 0.000001
+8.s_2 = 0.000004
+9.s_2 = 0.000004
+10.s_2 = 0.000004
+11.s_2 = 0.000004
+12.s_2 = 0.000004
+13.s_2 = 0.000003
+14.s_2 = 0.000001
+15.s_2 = 0.000001
+16.s_2 = 0.000003
+17.s_2 = 0.000003
+18.s_2 = 0.000003
+19.s_2 = 0.000003
+fs = 53.984375 is INFEASIBLE.
+Dottorro time: 00:01:00
+===============================
+K: 3 M: 13 fs: 53.9062 
+[Warning: Rank deficient, rank = 0, tol =  0.000000e+00.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PSD_S', 'C:\Users\derp\Documents\GitHub\GFDM\functions\PSD\PSD_S.mlx', 5)" style="font-weight:bold">PSD_S</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\functions\PSD\PSD_S.mlx',5,0)">line 5</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('opt_problem', 'C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx', 160)" style="font-weight:bold">opt_problem</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\opt_problem.mlx',160,0)">line 160</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runKM', 'C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx', 46)" style="font-weight:bold">runKM</a> (<a href="matlab: opentoline('C:\Users\derp\Documents\GitHub\GFDM\runKM.mlx',46,0)">line 46</a>)
+] 
+===== Can not run this K and M:  =====
+PSD length is wrong.
+2022/08/04 14:32
