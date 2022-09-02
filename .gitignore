@@ -2,5 +2,7 @@
 experiments/
 experiments_old/
 experiments - no CP, KM100, KM2-20/
+experiments - no CP (old)/
 .tmp.driveupload
 log_old
+log/
