@@ -1,5 +1,6 @@
 
-experiments/.DS_Store
+experiments/
+experiments_old/
+experiments - no CP, KM100, KM2-20/
 .tmp.driveupload
-experiments_old
 log_old
